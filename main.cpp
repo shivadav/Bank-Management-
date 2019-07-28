@@ -102,7 +102,6 @@ void banking::getdata()
        clrscr();
 }
 
-
 void banking::showdata()
 {
 	clrscr();
@@ -130,7 +129,6 @@ int banking::retbal()
 {
 	return bal;
 }
-
 
 void banking::showtable()
 {
